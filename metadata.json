@@ -1,0 +1,6 @@
+{
+  "name": "AtmosSignal",
+  "description": "Meteorological command center and scikit-learn .pkl schema inspector for weather signal forecasting and CSV batch inference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
